@@ -1,1 +1,1 @@
-# Titanic-Survival-Classifier-TensorFlow.js-no-server-
+# Titanic Survival Classifier (TensorFlow.js, no server)
